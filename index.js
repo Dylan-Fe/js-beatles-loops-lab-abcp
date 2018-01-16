@@ -9,5 +9,11 @@ function theBeatlesPlay(mus, inst) {
 }
 
 function johnLennonFacts(facts) {
+  var factsB = [];
   
+  for(let i = 0; i < facts.length; ++i) {
+    var factC = facts[i] + "!!!";
+    factsB.push(factC);
+  }
+  return factsB;
 }
