@@ -8,3 +8,6 @@ function theBeatlesPlay(mus, inst) {
   return newArr;
 }
 
+function johnLennonFacts(facts) {
+  
+}
